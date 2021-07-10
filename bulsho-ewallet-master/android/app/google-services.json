@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056578683794",
+    "project_id": "bulsho-6392f",
+    "storage_bucket": "bulsho-6392f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056578683794:android:751218695c6b1e489bb74b",
+        "android_client_info": {
+          "package_name": "com.bulshoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056578683794-lp5qf0onp138lcpn9071ai29f06mj8v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_pIXvNcrtCVOUDC0r3s1wrkqov3Wg2HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056578683794-lp5qf0onp138lcpn9071ai29f06mj8v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
